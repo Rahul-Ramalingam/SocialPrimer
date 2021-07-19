@@ -1,4 +1,4 @@
-# *🧬 Auto Face verification 💻*
+# *🦠 Social Primer 😷*
 
 ---
 
