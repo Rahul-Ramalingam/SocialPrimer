@@ -20,6 +20,7 @@ The social distancing is considered the best solution so far and however monitor
 
 ## Demo
 App is developed using Flutter framework
+Code Available in Master branch
 
 <p align="center">
   <img src="images/img1.jpg"/>
