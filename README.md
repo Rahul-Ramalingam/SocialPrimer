@@ -19,6 +19,8 @@ The social distancing is considered the best solution so far and however monitor
 </p>
 
 ## Demo
+App is developed using Flutter framework
+
 <p align="center">
   <img src="images/img1.jpg"/>
   <img src="images/img2.jpg"/>
